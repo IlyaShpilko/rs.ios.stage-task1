@@ -3,6 +3,7 @@
 @implementation NSArray (MinRotated)
 
 - (NSNumber *)minRotated {
+    
     return nil;
 }
 
